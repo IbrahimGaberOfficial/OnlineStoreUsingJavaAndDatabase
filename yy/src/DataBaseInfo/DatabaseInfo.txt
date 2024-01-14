@@ -1,0 +1,4 @@
+3306
+onlinestore
+admin
+JavaDB1-1P

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JDBConnection:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JDBConnection_jar</output-path>
+    <root id="archive" name="JDBConnection.jar">
+      <element id="module-output" name="JDBConnection" />
+      <element id="extracted-dir" path="F:/CSE_56/CSE_56_Semester1/07_Advanced_Programming_Languages/000TheProjects/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
