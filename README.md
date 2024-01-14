@@ -118,7 +118,7 @@ It is a simple 4 tables
 - admins.
 - products.
 - card_info. for simulating payment gateway.
-![[DataBaseERDiagram.png]]
+[[DataBaseERDiagram.png]]
 ![DataBaseERDiagram.png](.\pics\DataBaseERDiagram.png)
 
 
