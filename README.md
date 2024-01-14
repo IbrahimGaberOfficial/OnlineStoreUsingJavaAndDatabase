@@ -66,7 +66,7 @@
 	-  Abstratction.
 	-  Enacpuslation.
 	-  Access modifiers.
-	-  Reations between classes.
+	-  Relations between classes.
 		- Inheritance.
 		- Composition.
 		- Aggrigation.
@@ -78,10 +78,10 @@
 	- Dealing with Database from java files.
 	- Java collections.
 		- ArrayList.
+  		- HashMap 	
 	- reading from a file.
 	- variable warrping.
-	- format priting.
-	- printing colored text to console.
+	- format printing.
 
 # How to use this project
 
